@@ -5,4 +5,4 @@ Repository for CS4395, Natural Language Processing
 
 First portfolio assignment
 
-You can see the [document here]{portfolio_assignment_0.pdf}.
+You can see the [document here](portfolio_assignment_0.pdf)
