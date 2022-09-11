@@ -19,10 +19,10 @@ Pythons inbuilt functions and boutiful libraries for string manipulation make te
 In this assignment I learned about pickling, and its strengths and weaknesses. Most of the I/O, regex, and data structures was primarily a review. 
 
 
-##Portfolio Assignment 2
+## Portfolio Assignment 2
 
 Second Portfolio Assignment
 
-You can see the [document here] (Portfolio_Assignment3_ Colaboratory.pdf)
+You can see the [document here](Portfolio_Assignment3_Colaboratory.pdf)
 
 Overview:Practice using features of NLTK and examined a professional-level NLP API
