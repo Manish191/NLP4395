@@ -26,3 +26,12 @@ Second Portfolio Assignment
 You can see the [document here](Portfolio_Assignment3_Colaboratory.pdf)
 
 Overview:Practice using features of NLTK and examined a professional-level NLP API
+
+
+## Portfolio Assignment 3
+
+Guessing Game
+
+You can see the [document here](GuessingGame.py)
+
+Overview: Used tokenizer and pos tagging on raw text, then randomly generated a word to implement a guessing game
