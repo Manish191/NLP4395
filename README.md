@@ -41,6 +41,6 @@ Overview: Used tokenizer and pos tagging on raw text, then randomly generated a 
 
 N-grams
 
-You can see the [document here](untitled2.py)
+You can see the [document here](untitled2.py) and a [narrative](Narrative.pdf)
 
 Overview: Built language model using N-grams, then used to classiify languages in test data
