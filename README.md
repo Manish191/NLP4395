@@ -35,3 +35,12 @@ Guessing Game
 You can see the [document here](GuessingGame.py)
 
 Overview: Used tokenizer and pos tagging on raw text, then randomly generated a word to implement a guessing game
+
+
+## Portfolio Assignment 4
+
+N-grams
+
+You can see the [document here](untitled2.py)
+
+Overview: Used tokenizer and pos tagging on raw text, then randomly generated a word to implement a guessing game
