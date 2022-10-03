@@ -43,4 +43,4 @@ N-grams
 
 You can see the [document here](untitled2.py)
 
-Overview: Used tokenizer and pos tagging on raw text, then randomly generated a word to implement a guessing game
+Overview: Built language model using N-grams, then used to classiify languages in test data
