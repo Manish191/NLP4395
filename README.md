@@ -44,3 +44,12 @@ N-grams
 You can see the [document here](untitled2.py) and a [narrative](Narrative.pdf)
 
 Overview: Built language model using N-grams, then used to classiify languages in test data
+
+
+## Portfolio Assignment 5
+
+Parsing
+
+You can see the [document here](Parsing.pdf)
+
+Overview: Explored different parsing methods, including PSG trees, dependency parsing, and Semantic role parsing.
