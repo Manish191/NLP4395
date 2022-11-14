@@ -57,4 +57,4 @@ Overview: Explored different parsing methods, including PSG trees, dependency pa
 
 ## Portfolio Assignment Author Attribution
 
-You can see the [document here](Untitled3.ipynb - Colaboratory.pdf)
+You can see the [document here](Untitled3.ipynb-Colaboratory.pdf)
